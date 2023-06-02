@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://dl8z.4everland.app//_site/sitemap.xml
+Sitemap: https://dl8z.4everland.app//sitemap.xml
